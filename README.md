@@ -3,7 +3,7 @@
 
 ### Cenário proposto: Sistema de Cadastro e Busca de Produtos
 
-Para mais detalhes sobre o cenário proposto e implementação, acesse o relatório da atividade.
+Para mais detalhes sobre o cenário proposto e implementação, acesse o Relatório da atividade (enviado pelo Google Classroom ou disponível em **docs**)
 
 ## Instruções para execução do programa
 Nosso projeto foi feito na linguagem C. É necessário um compilador C e/ou IDE compatível. 
